@@ -1,0 +1,29 @@
+
+    Copyright 2009 Roman Naumann <roman_naumann@fastmail.fm>.
+   
+    This file is part of DDD.
+   
+    DDD is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+   
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+   
+    You should have received a copy of the GNU General Public License
+    along with DDD.  If not, see <http://www.gnu.org/licenses/>.
+   
+
+DDD is a collection of tools for the German Pen&Paper RPG Die Dunkle Dimension.
+Therefore, the rest of this document is written in German..
+
+DDD ist eine Toolsammlung für das Rollenspiel Die Dunkle Dimension. Die zwei
+wichtigsten Tools sind das GUI Tool zum Würfeln von Proben, Waffenwucht und
+Angriffen, sowie der IRC-Bot. Das GUI Tool ist im wesentlichen selbsterklärend,
+weshalb hier auf Ausführungen verzichtet wird.
+
+Der IRC-Bot dagegen bedarf einer Erklärung:
+(YET TO BE INSERTET)
